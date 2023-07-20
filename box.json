@@ -1,0 +1,10 @@
+{
+    "dependencies":{
+        "cbPlaywright":"^1.33.2",
+        "testbox":"^5.1.0+2"
+    },
+    "installPaths":{
+        "cbPlaywright":"modules/cbPlaywright/",
+        "testbox":"testbox/"
+    }
+}
